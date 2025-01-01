@@ -1,4 +1,6 @@
 (() => console.log('Hello, World!'))();
-(function demo() {
-    console.log('Hello, Worrld2');
-})();
+function demo() {
+    let output= ('Hello, Worrld2');
+    return output;
+}
+console.log(demo());
