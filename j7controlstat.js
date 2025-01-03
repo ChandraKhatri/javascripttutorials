@@ -29,8 +29,12 @@
 
 let userLoggedIn = true;
 let debitCard = true;
-let userVerified = true;
+let creditCard = false;
 
 if (userLoggedIn && debitCard ) {
     console.log("You can make a transaction");
 }
+if (userLoggedIn || creditCard) {
+    console.log("You can make a transaction");
+}   
+//tmele mlae jana dinu prxa
