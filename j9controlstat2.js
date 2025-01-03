@@ -11,3 +11,11 @@ console.log(val1);
 //ternary 
 const teaPrice = 500;
 teaPrice > 500 ? console.log("I will buy") : console.log("I will not buy");
+let array1 = [];
+if (array1.length === 0) {
+    console.log("Array is empty");
+}
+let obj1 = {};
+if ( Object.keys(obj1).length === 0) {
+    console.log("key is not present");
+}
