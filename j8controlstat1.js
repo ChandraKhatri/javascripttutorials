@@ -3,12 +3,20 @@
 // Use the switch statement to select one of many code blocks to be executed.
 let month = 3;
 switch(month){
-    case 1;
-    console.log("january")
-    case 2;
-    console.log("january")
-    case 3;
-    console.log("january")
-    case 4;
-    console.log("january")
+    case 1:
+    console.log("january");
+    break;
+    case 2:
+    console.log("Februaru");
+    break;
+    case 3:
+    console.log("March");
+    break;
+    case 4:
+    console.log("April");
+    break;
+    default:
+        console.log("error");
+        break;
+        
 }
