@@ -23,6 +23,14 @@
 // }
 
 //short hand notation
-const isUserLoggedIn = true;
- if (isUserLoggedIn ) console.log("You are logged in");
-isUserLoggedIn ? console.log("You are logged in again") : console.log("You are not logged in again and again");
+// const isUserLoggedIn = true;
+//  if (isUserLoggedIn ) console.log("You are logged in");
+// isUserLoggedIn ? console.log("You are logged in again") : console.log("You are not logged in again and again");
+
+let userLoggedIn = true;
+let debitCard = true;
+let userVerified = true;
+
+if (userLoggedIn && debitCard ) {
+    console.log("You can make a transaction");
+}
