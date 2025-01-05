@@ -49,9 +49,9 @@ console.log(age3);
 // the value of var can be changed at any point so we don't use var
 // the value of let can be changed but it can't be redeclared
 
-
-// commit changed 
+//git syntax
 // git add .
 // git commit -m "commit message"
 // git push 
 // git pull
+// git status
