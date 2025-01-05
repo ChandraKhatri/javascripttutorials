@@ -54,3 +54,4 @@ console.log(age3);
 // git add .
 // git commit -m "commit message"
 // git push 
+// git pull
