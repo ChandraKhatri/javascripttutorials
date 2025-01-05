@@ -56,3 +56,4 @@ console.log(age3);
 // git pull
 // git status
 // git log
+// git checkout branchname
