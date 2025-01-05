@@ -53,4 +53,4 @@ console.log(age3);
 // commit changed 
 // git add .
 // git commit -m "commit message"
-// git push origin master
+// git push 
