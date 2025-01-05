@@ -60,3 +60,4 @@ console.log(age3);
 // git branch branchname
 // git merge branchname
 // git clone url
+// git remote add origin url
