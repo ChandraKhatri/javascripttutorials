@@ -55,3 +55,4 @@ console.log(age3);
 // git push 
 // git pull
 // git status
+// git log
