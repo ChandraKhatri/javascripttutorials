@@ -50,4 +50,7 @@ console.log(age3);
 // the value of let can be changed but it can't be redeclared
 
 
-// commit changed
+// commit changed 
+// git add .
+// git commit -m "commit message"
+// git push origin master
