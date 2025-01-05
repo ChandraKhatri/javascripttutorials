@@ -57,3 +57,6 @@ console.log(age3);
 // git status
 // git log
 // git checkout branchname
+// git branch branchname
+// git merge branchname
+// git clone url
