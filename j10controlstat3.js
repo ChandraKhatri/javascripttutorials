@@ -33,4 +33,5 @@
 // }
 //
 const map = new map();
-const obj = { name: "Chandra", age: 19, password: "1234" };
+map.set("name", "Chandra");
+Map.set
