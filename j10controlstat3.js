@@ -18,17 +18,22 @@
 // map.set("password", "1234");
 // console.log(map);
 
-for (const [key , value] of map) {
-    console.log(key , ':' , value);
-    
-}
+// for (const [key , value] of map) {
+    // console.log(key , ':' , value);
+    // 
+// }
 // const myObj = { name: "Chandra", age: 19, password: "1234" };
 // for (const [key, value] of myObj) {
 //     console.log(key, ':', value);
     
 // }   <---- we cannot iterate object---->
-const myObj = { name: "Chandra", age: 19, password: "1234" };
-for (const key in myObj) {
-    console.log(key)
-}
-  //
+// const myObj = { name: "Chandra", age: 19, password: "1234" };
+// for (const key in myObj) {
+//     console.log(key)
+// }
+  const obj1 = {
+    a:1,
+    b:2
+  }
+ 
+  
