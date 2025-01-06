@@ -32,6 +32,12 @@
 //     console.log(key)
 // }
 //
-const map = new map();
+const map = new Map();
 map.set("name", "Chandra");
-Map.set
+map.set("age" ,19);
+map.set("password", "1234");
+for (const [key,value] of map) {
+    console.log(key, ':', value);
+   
+        
+    }
