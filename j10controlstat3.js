@@ -32,3 +32,5 @@
 //     console.log(key)
 // }
 //
+const map = new map();
+const obj = { name: "Chandra", age: 19, password: "1234" };
