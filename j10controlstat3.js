@@ -39,3 +39,8 @@ map.set("password", "1234");
 for (const [key,value] of map) {
     console.log(key, ':', value);     
     }
+//foreach
+const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+arr.forEach((num) => {
+    console.log(`value is ${num}`);
+});
