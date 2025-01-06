@@ -31,9 +31,7 @@
 // for (const key in myObj) {
 //     console.log(key)
 // }
-  const obj1 = {
-    a:1,
-    b:2
-  }
+  
+
  
   
