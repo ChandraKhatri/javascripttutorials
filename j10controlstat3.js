@@ -37,7 +37,5 @@ map.set("name", "Chandra");
 map.set("age" ,19);
 map.set("password", "1234");
 for (const [key,value] of map) {
-    console.log(key, ':', value);
-   
-        
+    console.log(key, ':', value);     
     }
