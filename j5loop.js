@@ -8,9 +8,5 @@ console.log("blank3");
 //
 
 
-/////
-
-
-
 
 
