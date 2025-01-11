@@ -18,5 +18,5 @@ switch(month){
     default:
         console.log("error");
         break;
-      //ch  
+      
 }
