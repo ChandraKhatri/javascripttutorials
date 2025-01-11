@@ -13,7 +13,7 @@ switch(month){
     console.log("March");
     break;
     case 4:
-    // console.log("April");
+    console.log("April");
     default:
         console.log("error");
         break;
