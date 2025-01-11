@@ -11,7 +11,7 @@ switch(month){
     break;
     case 3:
     console.log("March");
-    case 4:
+    // case 4:
     // console.log("February");
     break;
     default:
