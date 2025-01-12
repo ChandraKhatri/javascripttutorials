@@ -30,7 +30,7 @@ function loginUserMessage(username = "User"){
     // }
     return `${username} just logged in`;
 }
-const logedusername = loginUserMessage("Smriti");
+const logedusername = loginUserMessage("yoseph");
 console.log(logedusername);
 const logedusername2 = loginUserMessage();
 console.log(logedusername2);
