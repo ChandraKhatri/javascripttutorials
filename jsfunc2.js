@@ -34,5 +34,3 @@ const logedusername = loginUserMessage("yoseph");
 console.log(logedusername);
 const logedusername2 = loginUserMessage();
 console.log(logedusername2);
-
-
