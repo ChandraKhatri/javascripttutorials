@@ -14,6 +14,3 @@ const calculateCartPrice = (cart) => {
     return total;
 }
 console.log(calculateCartPrice(cart));
-
-
-
