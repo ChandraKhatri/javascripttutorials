@@ -4,3 +4,4 @@ function demo() {
     return output;
 }
 console.log(demo());
+

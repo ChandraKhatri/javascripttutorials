@@ -34,3 +34,7 @@ const logedusername = loginUserMessage("yoseph");
 console.log(logedusername);
 const logedusername2 = loginUserMessage();
 console.log(logedusername2);
+git commit -m"add"
+git push
+git add .''
+git commit -M" add"
