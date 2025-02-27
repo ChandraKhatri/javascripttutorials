@@ -1,1 +1,1 @@
- javascripttutorials
+ javascript
