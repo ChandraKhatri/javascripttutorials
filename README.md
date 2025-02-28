@@ -1,2 +1,2 @@
- Chandra Khatri
+ 
  javascript tutorials 
