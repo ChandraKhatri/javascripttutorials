@@ -1,2 +1,2 @@
-My name Chandra Khatri
+ Chandra Khatri
  javascript tutorials 
