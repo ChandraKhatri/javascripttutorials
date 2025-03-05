@@ -29,6 +29,6 @@ const myCoding = [
         languageSC1:"c++"
     }
 ]
-myCoding.forEach((item)=>{
-    console.log(item.LanguageName);
-})
+// myCoding.forEach((item)=>{
+//     console.log(item.LanguageName);
+// })
