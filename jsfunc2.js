@@ -37,4 +37,4 @@ console.log(logedusername2);
 git commit -m"add"
 git push
 git add .''
-git commit -M" add"
+

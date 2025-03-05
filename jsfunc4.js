@@ -9,4 +9,4 @@ const chandra = function (theObjects) {
     theObjects.study = "BSC.Csit";
 }
 chandra(myDetails);
-console.log((myDetails.study));
+console.log((myDetails));
